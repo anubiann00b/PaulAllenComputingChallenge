@@ -1,4 +1,4 @@
-PaulAllenChallenge
+PaulAllenPartOne
 ==================
 
-This is a public mirror of a bitbucket repository we're using for the Paul Allen Computing Challenge.
+Part 1 of Team Data Innovator's Paul Allen Computing Challenge entry.
